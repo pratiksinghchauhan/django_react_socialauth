@@ -1,7 +1,11 @@
 # Django + React Social Authentication
 
-
 This repository is intended to be the part of [Social login with React and Django — I](https://medium.com/@pratique/social-login-with-react-and-django-i-c380fe8982e2) and [Social login with React and Django — II](https://medium.com/@pratique/social-login-with-react-and-django-ii-39b8aa20cd27)  medium articles 
+
+![alt text][logo]
+
+[logo]: https://github.com/pratiksinghchauhan/django_react_socialauth/blob/master/ReactApp.png "React Django"
+
 
 ## Running the Code
 
